@@ -7,7 +7,7 @@
 
 A full-stack web application that intelligently matches students with internship opportunities. The system uses **Natural Language Processing (NLP)** to analyze resumes and **Content-Based Filtering** to recommend the most relevant positions based on skills, education, and sector interests.
 
-## 🌟 Key Features
+# 🌟 Key Features
 
 * **📄 AI Resume Parser:** Automatically extracts technical skills from PDF resumes using `PyMuPDF` and Regex pattern matching.
 * **🧠 Intelligent Recommendation Engine:** Uses **TF-IDF Vectorization** and **Cosine Similarity** to compare user profiles against internship descriptions semanticially.
